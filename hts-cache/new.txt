@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:30:48	131/131	---MCZ	200	added ('OK')	text/plain	date:Mon,%2008%20Sep%202025%2009:30:47%20GMT	https://worldtradecenter-stl.com/robots.txt		(from )
+13:30:48	96864/96864	---MCZ	200	added ('OK')	text/html	date:Mon,%2008%20Sep%202025%2009:30:48%20GMT	https://worldtradecenter-stl.com/about-us/wtc-member-listing/	/Users/simon/Desktop/WTC/worldtradecenter-stl.com/about-us/wtc-member-listing/index.html	(from )
